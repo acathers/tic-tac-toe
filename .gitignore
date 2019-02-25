@@ -2,3 +2,4 @@ node_modules
 *.iml
 *.idea
 *.gitattributes
+my-app/package-lock.json
